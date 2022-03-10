@@ -1,5 +1,5 @@
 # To intialize a repository
-git init
+```sh git init```
 # To check present status
 git status
 # To track files
