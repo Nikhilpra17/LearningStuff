@@ -8,3 +8,5 @@ git add fileName
 git commit -m "message for commit"
 # Push changes to source
 git push
+# Pull changes to source
+git pull
