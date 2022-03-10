@@ -1,12 +1,12 @@
 # To intialize a repository
-```git init```
+*```git init```*
 # To check present status
-```git status```
+*```git status```*
 # To track files
-```git add fileName```
+*```git add fileName```*
 # Commit changes to source
-```git commit -m "message for commit"```
+*```git commit -m "message for commit"```*
 # Push changes to source
-```git push```
+*```git push```*
 # Pull changes to source
-```git pull```
+*```git pull```*
