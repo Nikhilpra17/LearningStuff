@@ -5,3 +5,4 @@
 5. function/method
 6. signature/defination
 7. suites of tool (Collection of program to achieve some business logic) E.g. MS Office, Jupyter
+8. Paradigm (Missal in hindi)
