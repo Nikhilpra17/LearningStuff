@@ -4,3 +4,4 @@
 4. R.E.P.L
 5. function/method
 6. signature/defination
+7. suites of tool (Collection of program to achieve some business logic)
