@@ -1,13 +1,5 @@
-def translate(phrase):
-    translation = ""
-    for letter in phrase:
-        if letter.lower() in "aeiou":
-            if letter.isupper():
-                translation = translation + "G"
-            else:
-                translation = translation + "g"
-        else:
-            translation = translation + letter
-    return translation
-
-print(translate(input("Enter the word: ")))
+#Display Powers of 2 Using Anonymous Function
+a = int(input("the power of the number: "))
+for i in range (1,11):
+    print (f"{a} raised to the power {i} is = {a**i} ")
+    
