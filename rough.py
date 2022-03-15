@@ -1,5 +1,9 @@
-#Display Powers of 2 Using Anonymous Function
-a = int(input("the power of the number: "))
-for i in range (1,11):
-    print (f"{a} raised to the power {i} is = {a**i} ")
-    
+#Find Numbers Divisible by Another Number
+
+a= int(input("Enter the number to divisible: "))
+b= int(input("Enter the number to be divisible by: "))
+
+if a % b ==0:
+    print (f"{a} is divisible by {b}")
+else:
+    print (f"{a} is not divisible by {b}")
